@@ -4,8 +4,7 @@ This project is a "Smart Lamp System" prototype developed as part of the **Samsu
 
 ## 🏅 Achievement & Appreciation
 
-* **Samsung Innovation Campus:** This project successfully passed the selection phase, placing it in the **Top 1000 out of 10,000 participants** (Top 10%) nationally.
-* **Mentor Appreciation:** The prototype also received positive feedback and appreciation from our Samsung Innovation Campus mentor, validating its functionality and design.
+* **Mentor Appreciation:** The prototype received positive feedback and appreciation from our Samsung Innovation Campus mentor.
 
 ![Proof of Mentor Appreciation](/ASSET/Samsung-Mentor.png)
 
